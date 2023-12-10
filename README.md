@@ -14,5 +14,7 @@ We will also develop a smartphone application that lets the user and the propert
 - PSDR #5 (Software): An ability to have a working web server that provides a mechanism for the Smart Lock to send text messages to the property owner.
 
 ## Contributors
-- Ismail Husain
+- Ismail Husain (Microcontroller Interfacing: Prototyping and Integration)
 - John Bensen (WiFi Interfacing)
+- Aubrey Gatewood (PCB Design)
+- Daniel Kholodenko (Mechanical)
