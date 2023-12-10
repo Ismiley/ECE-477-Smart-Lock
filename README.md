@@ -12,3 +12,7 @@ We will also develop a smartphone application that lets the user and the propert
 - PSDR #3 (Hardware): An ability for the microcontroller to interface with a WiFi module via the UART communication protocol in order to send notification to the property owner.
 - PSDR #4 (Software): An ability to present an intuitive user interface, in the form of a smart phone application, that allows both the renter and property owner to send and receive data, through Wi-Fi, to the Smart Lock.
 - PSDR #5 (Software): An ability to have a working web server that provides a mechanism for the Smart Lock to send text messages to the property owner.
+
+## Contributors
+- Ismail Husain
+- John Bensen (Wifi Interfacing)
