@@ -1,0 +1,1 @@
+#define PASSWORD_LENGTH 4
