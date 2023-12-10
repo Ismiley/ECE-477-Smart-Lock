@@ -1,5 +1,8 @@
 # SMARTLOCK
 
+## Demo Video
+[Demo Video](https://youtu.be/u4u7ICIpQBg)
+
 ## Goal
 The goal of this project is to create a smart lock system that allows users to unlock a door by using their phones WiFi. In addition to this feature the lock has a keypad as backup in case the user loses their phone. This smart lock is designed for rental property owners to easily grant access to renters for short periods of time.\
 The lock comes in two parts: one side is on the outside of the door and one side is inside. The outside is where all the user interaction occurs. We will be designing a 3D printed casing to hold our WiFi module, multiplexed Keypad, and mechanical lock. The keypad is added as a backup system if a tenant loses their phone but remembers the code. The WiFi module communicates via UART, and our 16 key multiplexed keypad will use GPIO.\
