@@ -15,4 +15,4 @@ We will also develop a smartphone application that lets the user and the propert
 
 ## Contributors
 - Ismail Husain
-- John Bensen (Wifi Interfacing)
+- John Bensen (WiFi Interfacing)
